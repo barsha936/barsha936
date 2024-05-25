@@ -1,10 +1,5 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/barsha936.https://github.com/barsha936)
-
-</p>
-<div size='20px'> Hi! My name is Barsha Rani Panda. I'm a Full-stcak Python Developer :smile: 
+<div>
+  <img src="https://iili.io/JsLQqYl.png" />
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
